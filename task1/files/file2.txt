@@ -1,0 +1,11 @@
+The word "file" derives from the Latin filum ("a thread, string").[1]
+"File" was used in the context of computer storage as early as January 1940. 
+In Punched Card Methods in Scientific Computation,[2] W. J. Eckert stated, 
+"The first extensive use of the early Hollerith Tabulator in astronomy was made by Comrie.
+[3] He used it for building a table from successive differences, and for adding large numbers of harmonic terms". "Tables of functions are constructed from their differences with great efficiency, either as printed tables or as a file of punched cards."
+In February 1950, in a Radio Corporation of America (RCA) advertisement in Popular Science magazine[4] describing a 
+new "memory" vacuum tube it had developed, RCA stated: "the results of countless computations can be kept 'on file' and taken out again. Such a 'file' now exists in a 'memory' tube developed at RCA Laboratories. 
+Electronically it retains figures fed into calculating machines, holds them in storage while it memorizes new ones – speeds intelligent solutions through mazes of mathematics."
+In 1952, "file" denoted, among other things, information stored on punched cards.[5]
+In early use, the underlying hardware, rather than the contents stored on it, was denominated a "file". 
+For example, the IBM 350 disk drives were denominated "disk files".[6] The introduction, c. 1961, by the Burroughs MCP and the MIT Compatible Time-Sharing System of the concept of a "file system" that managed several virtual "files" on one storage device is the origin of the contemporary denotation of the word. Although the contemporary "register file" demonstrates the early concept of files, its use has greatly decreased.
